@@ -1,0 +1,1 @@
+AddHandler Object.TestEvent, Handler;
