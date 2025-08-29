@@ -1,0 +1,1 @@
+RemoveHandler Object.TestEvent, Handler;

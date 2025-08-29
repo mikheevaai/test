@@ -1,0 +1,3 @@
+Procedure ПроверкаСтиля()
+    Обработать();
+EndProcedure
