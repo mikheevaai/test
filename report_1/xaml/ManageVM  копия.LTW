@@ -1,0 +1,3 @@
+<Activity xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:uaa="http://schemas.uipath.com/workflow/activities" >
+    <uaa:AzureRestartVirtualMachine Timeout="{x:Null}" VirtualMachine="{x:Null}" DisplayName="Restart VM" WorkflowViewState.IdRef="AzureRestartVirtualMachine_1" WaitForCompletion="True" />",
+</Activity>

@@ -1,0 +1,3 @@
+<Activity xmlns:ui="http://schemas.uipath.com/workflow/activities" >
+    <ui:Matches BuilderPattern="(e+)+" VirtualizedContainerService.HintSize="334,59" WorkflowViewState.IdRef="Matches_1" Input="[test_text]" IsBuilderTabModified="True" Model="[{&quot;Index&quot;:0,&quot;OperationID&quot;:&quot;ADV&quot;,&quot;OperationName&quot;:&quot;Advanced&quot;,&quot;OperationValue&quot;:&quot;(e+)&quot;,&quot;QuantifierFirstValue&quot;:&quot;+&quot;,&quot;QuantifierID&quot;:&quot;OOM&quot;,&quot;QuantifierName&quot;:&quot;At least one (1 or more)&quot;,&quot;QuantifierSecondValue&quot;:null}]" Pattern="[untrusted_input]" RegexOption="IgnoreCase" />
+</Activity>
